@@ -1,9 +1,9 @@
-# 💫 About Me:
+# 💫 About Me: 
 Learning the basics of Web Development and data scince.<br><br>👯 I’m looking to collaborate on: Simple HTML/CSS projects.<br><br>🤝 I’m looking for help with: Mastering Python and css.<br><br>🌱 I’m currently learning: HTML, CSS,power bi, and Python.<br><br>💬 Ask me about: Basic web design or my GitHub journey.<br><br>⚡ Fun fact: I love creating clean and simple ec page!<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/virat_aaithan13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ sahil-kumawat-75532a3a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viratkumawat137@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/virat_aaithan13) (https://linkedin.com/in/www.linkedin.com/in/ sahil-kumawat-75532a3a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viratkumawat137@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 
 # 💻 Tech Stack:
 Python: <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
